@@ -11,8 +11,8 @@
 - framework de testes Junit, 
 - JDBC para conexão com SGBD MySQL.
 
-Projeto e Desenvolvimento: 
-Luís Felippe Floriani 
-Blumenau-Santa Catarina, 2014.
+# Projeto e Desenvolvimento: 
+- Luís Felippe Floriani 
+- Blumenau-Santa Catarina, 2014.
 
 
